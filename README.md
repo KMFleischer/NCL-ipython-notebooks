@@ -1,5 +1,7 @@
 # NCL-ipython-notebooks
 
-NCL IPython notebook examples. You need to install suvarchal's IPyNCL IPython notebook NCL kernel before you can start using the examples.
+NCL notebook examples using a NCL kernel for Jupyter notebook. 
 
-Working on it... :)
+You need to install suvarchal's IPyNCL IPython notebook NCL kernel before you can start using the examples.
+
+https://github.com/suvarchal/IPyNCL
