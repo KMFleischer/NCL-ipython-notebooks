@@ -1,6 +1,9 @@
 # NCL-ipython-notebooks
 
-NCL notebook examples using an NCL kernel for Jupyter notebooks. 
+NCL notebook examples using the NCL kernel IPyNCL for Jupyter notebooks (former ipython notebooks). </br></br>
+Since in GitHub there is no NCL kernel and ImageMagick installed you have to download the notebook, install the NCL kernel (and ImageMagicks) and run the notebook on your local computer with
+
+	jupyter notebook
 
 ## Used Software
 
