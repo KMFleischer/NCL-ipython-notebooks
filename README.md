@@ -16,9 +16,17 @@ https://github.com/suvarchal/IPyNCL
 
 Install the newest version of NCL (current version is 6.5.0) from http://ncl.ucar.edu/Download/. I recommend to use conda to install the software.
 
+### CDO
+
+In some notebooks the CDO (Climate Data Operators) are used to do computations. NCL and CDO complement one another very well. See installation instructions https://code.mpimet.mpg.de/projects/cdo/wiki#Installation-and-Supported-Platforms
+
 ### ImageMagicks
 
 Some scripts use ImageMagicks *convert* program to cut off white space of the plot files. If you don't want to install it you have to uncomment the relevant code lines.
+
+### Used data sets
+
+Most of the data sets used in the notebooks are part of the NCL software package. If NCL is installed you can find the data sets in the directory $NCARG_ROOT/lib/ncarg/data/nug/.
 
 ## Known Problems
 
